@@ -9,7 +9,7 @@ public class SocketMain {
 
 	public static void main(String[] args) throws IOException {
 		Server server = new Server();
-		server.start(6666);
+		server.start(8080);
 		
 	}
 }
