@@ -8,3 +8,6 @@ Socket Client/Server program meeting the following parameters:
    b. if the path and file exists return the contents of the file as a response to the incoming socket request.
 4. Check your updated socket code in to your Github
 you will need to google file reading and writing, its similar to reading and writing to sockets.   Extra points if you use the file stream as the socket response stream directly
+
+
+Run in Terminal: $ java socketProgram.SocketMain
