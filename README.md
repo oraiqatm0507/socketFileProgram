@@ -1,4 +1,4 @@
-# socketFileProgram
+# Homework 3: socketFileProgram
 
 Socket Client/Server program meeting the following parameters: 
 
