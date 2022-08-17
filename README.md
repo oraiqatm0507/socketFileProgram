@@ -1,6 +1,6 @@
 # Homework 3: socketFileProgram
 
-Socket Client/Server program meeting the following parameters: 
+## Socket Client/Server program meeting the following parameters: 
 
 1. Use your browser to connect to your running program and save the output captured from the request.
 2. Determine where the requested path and document is specified in the browser request data  (for instance if you reqest http://localhost/:(port)/movies/action/all.html   the path is /movies/action/ and the document is all.html)
@@ -9,5 +9,6 @@ Socket Client/Server program meeting the following parameters:
 4. Check your updated socket code in to your Github
 you will need to google file reading and writing, its similar to reading and writing to sockets.   Extra points if you use the file stream as the socket response stream directly
 
+## Run Code
 
-Run in Terminal: $ java socketProgram.SocketMain
+Run in Terminal: $ **java socketProgram.SocketMain**
